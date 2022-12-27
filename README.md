@@ -1,3 +1,5 @@
+https://bayy-5d17e.web.app/
+
 A simple landing page for a fictitious app called bayy. Bayy is an AI chat app that listens and talks back to the user. The theme and concept was inspired by JOI from the movie Bladerunner 2049. JOI is an AI companion/hologram that Joe or Officer K uses for company. 
 ![desktop](https://user-images.githubusercontent.com/48900828/209735577-96941dd5-bb84-4d10-bd5d-a3de02801391.PNG)
 The site is fully responsive and mobile friendly using Bootstrap 5. Break points occur at a medium viewing size which is < 768px at which point a menu icon appears and smoothly drops down for additional links in navigation.
