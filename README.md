@@ -25,6 +25,11 @@ For bayy herself I used mid journey bot to create an entirely new and unique mas
  - [How to generate custom AI images](https://youtu.be/8xePoQ6ZuXI)
 
 
+## Demo
+
+https://bayy-5d17e.web.app/
+
+
 ## Screenshots
 
 ![desktop](https://user-images.githubusercontent.com/48900828/209735577-96941dd5-bb84-4d10-bd5d-a3de02801391.PNG)
@@ -34,8 +39,3 @@ For bayy herself I used mid journey bot to create an entirely new and unique mas
 ![mobile2](https://user-images.githubusercontent.com/48900828/209735583-abbf1a58-abab-40b0-8c45-57af055c485d.PNG)
 
 ![facehero](https://user-images.githubusercontent.com/48900828/209735625-a4407597-427e-4214-a02b-28d4163f9469.png)
-
-
-## Demo
-
-https://bayy-5d17e.web.app/
