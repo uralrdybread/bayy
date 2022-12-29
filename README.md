@@ -10,6 +10,15 @@ For the logo I chose what looks like a lowercase a. I feel like a logo like this
 
 For bayy herself I used mid journey bot to create an entirely new and unique mascot. I wanted to create a mascot that looked real but not too real since it’s still just an AI bot. The prompt I used to generate her was a mixture of my favorite citypop artist Mariya Takeuchi, beautiful, retrowave, and creative. I ran into a few issues with bayy's positioning because the desktop view has absolute but needed to be relative on mobile. I couldn't find a solution bootstrap related so I incorporated a media query that changes the property based on what platform the user is on. I decided to use a retrowave prompt so it would fit better with the pink and magenta theme. The final product came out better than expected. After getting the images I simply use gimp to grab the selected model while turning the background transparent. A few transparent selections inside of the hair and it was complete. 
 
+## Technologies
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
 
 ## Acknowledgements
 
